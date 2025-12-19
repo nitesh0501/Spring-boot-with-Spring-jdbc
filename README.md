@@ -6,7 +6,7 @@ Spring Boot Integration: Simplifies application setup and configuration.
 
 Spring JDBC: Performs CRUD operations using JdbcTemplate.
 
-H2 In-Memory Database: Lightweight, fast, and ideal for development/testing.
+Used H2 In-Memory Database
 
 Database Initialization:
 
@@ -14,7 +14,6 @@ schema.sql – Defines the database tables.
 
 data.sql – Preloads sample data.
 
-Layered Architecture: Uses Controller, Service, and Repository layers.
 
 Technologies Used
 
