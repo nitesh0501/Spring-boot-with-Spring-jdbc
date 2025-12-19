@@ -1,4 +1,4 @@
-This project demonstrates how to perform basic database operations in Spring Boot using Spring JDBC with an H2 in-memory database. It covers the setup of JdbcTemplate and DataSource, as well as using SQL scripts for schema creation and data insertion.
+This practise demonstrates how to perform basic database operations in Spring Boot using Spring JDBC with an H2 in-memory database. It covers the setup of JdbcTemplate and DataSource, as well as using SQL scripts for schema creation and data insertion.
 
 Features
 
