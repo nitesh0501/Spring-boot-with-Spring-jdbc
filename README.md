@@ -17,8 +17,6 @@ data.sql – Preloads sample data.
 
 Technologies Used
 
-Java 17 (or your Java version)
-
 Spring Boot
 
 Spring JDBC
